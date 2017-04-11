@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# bookshelf
+quick rails project making an online bookshelf
+>>>>>>> 6bc443770b83b1f9904d7b3d65df2eca7316d9ad
